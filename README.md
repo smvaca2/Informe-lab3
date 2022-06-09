@@ -72,6 +72,8 @@ valores de los voltajes de nodo. Anote los resultados en la tabla 3.1.**
 
 ***5.-VIDEO***
 
+https://youtu.be/zekZwxoz2rk
+
 ***6.-CONCLUSIONES***
 
 Con la realización de este informe se obtuvieron resultados que se pueden poner en análisis, puesto que los resultados en simulación fueron en cierto porcentaje diferentes a los experimentales, pero similares a los analíticos. Para el cálculo analítico de este circuito fue necesario saber reconocer el nodo de referencia y sus nodos principales, puesto que a partir de esto y de la ley de corrientes de Kirchhoff se planteó la resolución del problema.
