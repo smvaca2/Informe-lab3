@@ -60,7 +60,7 @@ valores de los voltajes de nodo. Anote los resultados en la tabla 3.1.**
 
 **4.5.4. Compare los valores de la tabla 3.1 y realice sus conclusiones.**
 
-![]()
+![](https://github.com/smvaca2/Informe-lab3/blob/50fc29ac06da11488cc703fd1c9083cb184160ae/WhatsApp%20Image%202022-06-08%20at%208.17.36%20PM.jpeg)
 
 *Calcular errores de las mediciones y comentar los resultados.*
 
