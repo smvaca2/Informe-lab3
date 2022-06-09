@@ -57,6 +57,8 @@ Un nodo es el punto de unión de dos o más elementos.
 
 **4.5.2. Mida cada uno de los voltajes de nodo y anote los resultados en la tabla 3.1.**
 
+![](https://github.com/smvaca2/Informe-lab3/blob/d1e03fe7f0ccf77521fe14e3850e7a0f6aac7525/WhatsApp%20Image%202022-06-09%20at%207.57.24%20AM.jpeg)
+
 **4.5.3. Simule en el software Thinkercad, el circuito de la figura 3.1, obteniendo los
 valores de los voltajes de nodo. Anote los resultados en la tabla 3.1.**
 
